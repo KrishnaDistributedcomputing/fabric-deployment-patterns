@@ -1,0 +1,25 @@
+# Local editor and OS files
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+# Local files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Office autosave files
+~$*
+
+# Environment files
+.env
+.env.*
+
+# Generated exports
+exports/
+output/

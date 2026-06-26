@@ -1,0 +1,16 @@
+Cost Item,Category,Quantity,Unit Cost,Frequency,Estimated Cost,Owner,Notes
+Fabric capacity - Dev,Fabric Capacity,1,TBD,Monthly,TBD,Platform,Select SKU after capacity sizing
+Fabric capacity - Test,Fabric Capacity,1,TBD,Monthly,TBD,Platform,May be scheduled during business hours
+Fabric capacity - Prod,Fabric Capacity,1,TBD,Monthly,TBD,Platform,Consider reserved capacity
+Power BI Pro licenses,Licensing,TBD,TBD,Monthly,TBD,Business,Report creators and workspace contributors
+Power BI Premium Per User,Licensing,TBD,TBD,Monthly,TBD,Business,Only if required by feature model
+OneLake storage,Storage,TBD TB,TBD,Monthly,TBD,Data Platform,Include raw curated and semantic layers
+Data pipeline execution,Data Integration,TBD,TBD,Monthly,TBD,Data Engineering,Based on refresh frequency and volume
+Gateway or network components,Networking,TBD,TBD,Monthly,TBD,Infrastructure,Required for private or on-prem connectivity
+Monitoring and logging,Operations,TBD,TBD,Monthly,TBD,Operations,Include alerting and audit retention
+Assessment workshops,Implementation,TBD days,TBD,One-time,TBD,Delivery,Current state and requirements
+Architecture and design,Implementation,TBD days,TBD,One-time,TBD,Delivery,Target architecture and governance
+Landing zone implementation,Implementation,TBD days,TBD,One-time,TBD,Delivery,Capacity identity networking workspaces
+PoC implementation,Implementation,TBD days,TBD,One-time,TBD,Delivery,Lakehouse pipelines reports validation
+Testing and sign-off,Implementation,TBD days,TBD,One-time,TBD,Delivery,Performance security business validation
+Documentation and handover,Implementation,TBD days,TBD,One-time,TBD,Delivery,Runbooks design docs training
